@@ -1,10 +1,9 @@
-# Useful-R-techniques
-
 # Useful R techniques
 
-I will introduce how to analyze, summarize, visualize RNA-Seq data using R and its packages including edgeR, tidyverse, data.table, etc.
-For enrichment analysis of RNA-Seq, we normally use [Metascape](https://metascape.org/gp/index.html#/main/step1).
-In this repository, only a method using Metascape data for RNA-Seq analysis will be introduced. 
-I will also introduce how to process Metascape enrichment results and visualize qPCR validation results using Python.
+In this repository, I would like to introduce useful R packages or functions that can be used for data analysis.
+If you have any packages or functions you want to use or know, please leave comments below!
 
-※ All example data showed in this section are all modified data, not our original data.
+# 有用なR分析技術
+
+このレポジトリーでは、データ分析分野で有用に使えるRパッケージや関数を紹介いたします。
+お使いになりたいパッケージや関数がございましたら、コメントでお知らせください！
